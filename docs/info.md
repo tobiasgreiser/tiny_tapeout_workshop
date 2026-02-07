@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Adds A, B and carry bit Cin. Gives S(um) as a result Cout. The output is clocked.
 
 ## How to test
 
-Explain how to use your project
+Connect a clock and set inputs. Check if outputs work correct.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Use switched for input and use LEDs to visualize output.
