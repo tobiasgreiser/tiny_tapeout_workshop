@@ -9,12 +9,20 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Adds A, B and carry bit Cin. Gives S(um) as a result Cout. The output is clocked.
+Iagine sitting in front of a computer screen, moving the mouse. That's exactly what I tried to replicate, except that you can change the cursor size when you have a hard time finding it. The cursor is supposed to be white on a gray background.
+
+Inputs 0 to 5 are used:
+- 0: Move the cursor to the left
+- 1: Move the cursor to the right
+- 2: Move the cursor to the top
+- 3: Move the cursor to the bottom
+- 4: Increase cursor size
+- 5: Decrease cursor size
 
 ## How to test
 
-Connect a clock and set inputs. Check if outputs work correct.
+Connect a VGA monitor. Set the inputs according to your preference.
 
 ## External hardware
 
-Use switched for input and use LEDs to visualize output.
+Tiny VGA Pmod and switches.
